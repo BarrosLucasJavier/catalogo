@@ -1,0 +1,31 @@
+.headerContainer{
+    grid-area: header;
+    position: relative;
+    background-color: var(--eerie-black);
+    height: 71vw;
+    max-height: 650px;
+    color: white;
+    text-align: center;
+    border-bottom: 8px solid var(--xanthous);
+    border-top: 8px solid var(--xanthous);
+}
+.headerContainer h1{
+    font-family: var(--titleText);
+    font-size: 4rem;
+}
+.sloganContainer{
+    position: absolute;
+    bottom: 3rem;
+    right: 1rem;
+    width: 35vw;
+    font-size: 0.8rem;
+    text-shadow: 3px 3px 3px rgb(128, 127, 127);
+}
+.maniqui{
+    position: absolute;
+    bottom: 0;
+    left:calc(50vw - 200px);
+    height: 55vw;
+    max-width: 400px;
+    filter: drop-shadow(0 5px 5px rgba(0, 0, 0, 0.692));
+}

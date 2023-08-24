@@ -1,0 +1,13 @@
+.filterContainer{
+    padding: 0.7rem;
+    background-color: var(--eerie-black);
+    border-bottom: 8px solid var(--xanthous);
+}
+.filterContainer select{
+    display: block;
+    margin: 0.3rem auto;
+    background-color: var(--xanthous);
+    border: none;
+    padding: 0.3rem 0.7rem;
+    text-transform: uppercase;
+}
