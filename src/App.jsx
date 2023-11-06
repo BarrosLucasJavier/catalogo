@@ -1,14 +1,17 @@
 
 import { ProductsProvider } from "./context/products.context"
-import Home from "./page/home/Home"
+import { BrowserRouter as Router} from 'react-router-dom'
+import AppRoutes from "./routes"
 
 
 function App() {
 
   return (
-    <ProductsProvider>
-      <Home/>
-    </ProductsProvider>
+    <Router>
+      <ProductsProvider>
+        <AppRoutes/>
+      </ProductsProvider>
+    </Router>
   )
 }
 

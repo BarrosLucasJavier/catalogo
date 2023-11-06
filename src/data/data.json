@@ -1,7 +1,7 @@
 [
     {
         "product_name": "falda",
-        "image": "http://dummyimage.com/120x100.png/dddddd/000000",
+        "image": "https://images.pexels.com/photos/15504460/pexels-photo-15504460.jpeg?auto=compress&cs=tinysrgb&h=350",
         "price": 17.46,
         "size": "XL",
         "category": "camisetas",
@@ -9,7 +9,7 @@
     },
     {
         "product_name": "guantes",
-        "image": "http://dummyimage.com/110x100.png/dddddd/000000",
+        "image": "https://images.pexels.com/photos/17068483/pexels-photo-17068483.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
         "price": 2.7,
         "size": "L",
         "category": "chaquetas",
@@ -17,7 +17,7 @@
     },
     {
         "product_name": "chaqueta",
-        "image": "http://dummyimage.com/106x100.png/dddddd/000000",
+        "image": "https://images.pexels.com/photos/17068485/pexels-photo-17068485.jpeg?auto=compress&cs=tinysrgb&h=350",
         "price": 69.86,
         "size": "L",
         "category": "vestidos",
@@ -25,7 +25,7 @@
     },
     {
         "product_name": "pantalón",
-        "image": "http://dummyimage.com/178x100.png/dddddd/000000",
+        "image": "https://images.pexels.com/photos/17068488/pexels-photo-17068488.jpeg?auto=compress&cs=tinysrgb&h=350",
         "price": 5.78,
         "size": "XL",
         "category": "sudaderas",
@@ -33,7 +33,7 @@
     },
     {
         "product_name": "falda",
-        "image": "http://dummyimage.com/113x100.png/ff4444/ffffff",
+        "image": "https://images.pexels.com/photos/17068490/pexels-photo-17068490.jpeg?auto=compress&cs=tinysrgb&h=350",
         "price": 46.56,
         "size": "XL",
         "category": "camisas",
@@ -41,7 +41,7 @@
     },
     {
         "product_name": "zapatos",
-        "image": "http://dummyimage.com/170x100.png/ff4444/ffffff",
+        "image": "https://images.pexels.com/photos/17068492/pexels-photo-17068492.jpeg?auto=compress&cs=tinysrgb&h=350",
         "price": 19.71,
         "size": "XL",
         "category": "accesorios",
@@ -49,7 +49,7 @@
     },
     {
         "product_name": "zapatos",
-        "image": "http://dummyimage.com/226x100.png/ff4444/ffffff",
+        "image": "https://images.pexels.com/photos/17068494/pexels-photo-17068494.jpeg?auto=compress&cs=tinysrgb&h=350",
         "price": 12.06,
         "size": "S",
         "category": "faldas",
@@ -57,7 +57,7 @@
     },
     {
         "product_name": "vestido",
-        "image": "http://dummyimage.com/237x100.png/5fa2dd/ffffff",
+        "image": "https://images.pexels.com/photos/17068495/pexels-photo-17068495.jpeg?auto=compress&cs=tinysrgb&h=350",
         "price": 74.33,
         "size": "XL",
         "category": "abrigos",
@@ -65,7 +65,7 @@
     },
     {
         "product_name": "vestido",
-        "image": "http://dummyimage.com/231x100.png/ff4444/ffffff",
+        "image": "https://images.pexels.com/photos/17068497/pexels-photo-17068497.jpeg?auto=compress&cs=tinysrgb&h=350",
         "price": 52.48,
         "size": "S",
         "category": "camisetas",
@@ -73,7 +73,7 @@
     },
     {
         "product_name": "guantes",
-        "image": "http://dummyimage.com/160x100.png/ff4444/ffffff",
+        "image": "https://images.pexels.com/photos/17068504/pexels-photo-17068504.jpeg?auto=compress&cs=tinysrgb&h=350",
         "price": 88.93,
         "size": "XL",
         "category": "chaquetas",
@@ -81,7 +81,7 @@
     },
     {
         "product_name": "camisa",
-        "image": "http://dummyimage.com/170x100.png/cc0000/ffffff",
+        "image": "https://images.pexels.com/photos/16064617/pexels-photo-16064617.jpeg?auto=compress&cs=tinysrgb&h=350",
         "price": 73.7,
         "size": "L",
         "category": "chaquetas",
@@ -89,7 +89,7 @@
     },
     {
         "product_name": "sombrero",
-        "image": "http://dummyimage.com/144x100.png/ff4444/ffffff",
+        "image": "https://images.pexels.com/photos/16064617/pexels-photo-16064617.jpeg?auto=compress&cs=tinysrgb&h=350",
         "price": 33.12,
         "size": "XL",
         "category": "camisas",
@@ -97,7 +97,7 @@
     },
     {
         "product_name": "sombrero",
-        "image": "http://dummyimage.com/193x100.png/cc0000/ffffff",
+        "image": "https://images.pexels.com/photos/17068504/pexels-photo-17068504.jpeg?auto=compress&cs=tinysrgb&h=350",
         "price": 9.23,
         "size": "XL",
         "category": "sudaderas",
@@ -113,7 +113,7 @@
     },
     {
         "product_name": "guantes",
-        "image": "http://dummyimage.com/175x100.png/ff4444/ffffff",
+        "image": "https://images.pexels.com/photos/17068497/pexels-photo-17068497.jpeg?auto=compress&cs=tinysrgb&h=350",
         "price": 51.99,
         "size": "L",
         "category": "camisas",
@@ -121,7 +121,7 @@
     },
     {
         "product_name": "bufanda",
-        "image": "http://dummyimage.com/233x100.png/dddddd/000000",
+        "image": "https://images.pexels.com/photos/459486/pexels-photo-459486.jpeg?auto=compress&cs=tinysrgb&h=350",
         "price": 93.03,
         "size": "L",
         "category": "camisas",
@@ -129,7 +129,7 @@
     },
     {
         "product_name": "falda",
-        "image": "http://dummyimage.com/194x100.png/5fa2dd/ffffff",
+        "image": "https://images.pexels.com/photos/235525/pexels-photo-235525.jpeg?auto=compress&cs=tinysrgb&h=350",
         "price": 34.38,
         "size": "S",
         "category": "camisetas",
@@ -137,7 +137,7 @@
     },
     {
         "product_name": "guantes",
-        "image": "http://dummyimage.com/198x100.png/5fa2dd/ffffff",
+        "image": "https://images.pexels.com/photos/413676/pexels-photo-413676.jpeg?auto=compress&cs=tinysrgb&h=350",
         "price": 2.27,
         "size": "S",
         "category": "sudaderas",
@@ -145,7 +145,7 @@
     },
     {
         "product_name": "pantalón",
-        "image": "http://dummyimage.com/179x100.png/dddddd/000000",
+        "image": "https://images.pexels.com/photos/996329/pexels-photo-996329.jpeg?auto=compress&cs=tinysrgb&h=350",
         "price": 53.5,
         "size": "S",
         "category": "accesorios",
@@ -153,7 +153,7 @@
     },
     {
         "product_name": "chaqueta",
-        "image": "http://dummyimage.com/169x100.png/5fa2dd/ffffff",
+        "image": "https://images.pexels.com/photos/365067/pexels-photo-365067.jpeg?auto=compress&cs=tinysrgb&h=350",
         "price": 87.86,
         "size": "XL",
         "category": "vestidos",
@@ -161,7 +161,7 @@
     },
     {
         "product_name": "zapatos",
-        "image": "http://dummyimage.com/168x100.png/ff4444/ffffff",
+        "image": "https://images.pexels.com/photos/603022/pexels-photo-603022.jpeg?auto=compress&cs=tinysrgb&h=350",
         "price": 75.9,
         "size": "M",
         "category": "chaquetas",
@@ -169,7 +169,7 @@
     },
     {
         "product_name": "vestido",
-        "image": "http://dummyimage.com/138x100.png/5fa2dd/ffffff",
+        "image": "https://images.pexels.com/photos/459473/pexels-photo-459473.jpeg?auto=compress&cs=tinysrgb&h=350",
         "price": 9.35,
         "size": "L",
         "category": "chaquetas",
@@ -177,7 +177,7 @@
     },
     {
         "product_name": "zapatos",
-        "image": "http://dummyimage.com/151x100.png/5fa2dd/ffffff",
+        "image": "https://images.pexels.com/photos/325876/pexels-photo-325876.jpeg?auto=compress&cs=tinysrgb&h=350",
         "price": 93.91,
         "size": "L",
         "category": "faldas",
@@ -185,7 +185,7 @@
     },
     {
         "product_name": "sombrero",
-        "image": "http://dummyimage.com/108x100.png/dddddd/000000",
+        "image": "https://images.pexels.com/photos/48812/material-web-texture-the-background-48812.jpeg?auto=compress&cs=tinysrgb&h=350",
         "price": 49.25,
         "size": "S",
         "category": "camisas",

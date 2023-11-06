@@ -10,9 +10,11 @@ const ProductList = () => {
     return (
         <main className={styles.mainContainer}>
             <FilterBar/>
-            {products.map((product, index) =>{
-                return ( <CardProduct key={index} product={product}/> )
-            })}
+            <div className={styles.cardsContainer}>
+                {products.map((product, index) =>{
+                    return ( <CardProduct key={index} product={product}/> )
+                })}
+            </div>
         </main>
     );
 }

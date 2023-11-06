@@ -9,7 +9,9 @@ const CardProduct = ({ product }) => {
     return (
         <div className={styles.cardContainer}>
             <img src={product.image}/>
-            <p>{product.product_name}</p>
+            <div className={styles.infoContainer}>
+                <p>{product.product_name}</p>
+            </div>
         </div>
     );
 }
